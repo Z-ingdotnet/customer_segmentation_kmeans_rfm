@@ -32,4 +32,5 @@ LT_Freqcount - Frequency
 Recency - Recency
 
 age (int) - age of the customer
+
 Tenune (int) - days since when customer created an account
